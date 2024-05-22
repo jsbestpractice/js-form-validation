@@ -34,4 +34,5 @@ cd js-form-validation
 
 
 <h2> 🎨Design </h2>
-![Design](https://raw.githubusercontent.com/jsbestpractice/js-form-validation/main/demo%20image/Screenshot_1.png)
+
+![Design](https://github.com/jsbestpractice/js-form-validation/blob/main/demo%20image/Screenshot_1.png?raw=true)
